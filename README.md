@@ -1,7 +1,7 @@
 # Nurtal-token
 ERC-20 token contracts and governance for NurtalDAO
 
-# Nurtal Token (NURTAL)
+# Nurtal Token ($NURTAL)
 
 This repository contains the ERC-20 token contracts for **NurtalDAO**, the first project of Nurtal Biotechnology.
 
